@@ -1,0 +1,47 @@
+header button {
+    width: 219px;
+    height: 63px;
+    border-radius: 20px;
+    color: rgba(239, 64, 15, 1);
+    border-color: rgba(239, 64, 15, 1);
+
+}
+
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+input {
+    width: 286px;
+    height: 33px;
+    background-color: rgba(0, 0, 0, 1);
+    border-radius: 20px;
+}
+
+.salom button {
+    width: 116px;
+    height: 63px;
+    border: none;
+    border-radius: 20px;
+    background-color: rgba(13, 13, 91, 1);
+    color: white;
+}
+
+.salom {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+main div {
+    box-shadow: 10px 10px 10px;
+    width: 290px;
+    height: 289px;
+    border-radius: 20px;
+    /* display: flex; */
+    align-items: center 0;text-align: center; border: solid 2px; border-color: white;
+
+}
+main{display: flex; flex-wrap: wrap; gap: 200px;}
